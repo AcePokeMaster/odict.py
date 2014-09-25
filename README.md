@@ -1,4 +1,4 @@
 odict.py
 ========
 
-Custom made dict()
+Custom made dict() called odict()
